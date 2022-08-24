@@ -1,3 +1,5 @@
+#Namespaced-identifier 1.19.2
+
 stone 石頭
 granite 花崗岩
 polished_granite 拋光花崗岩
