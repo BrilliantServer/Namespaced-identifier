@@ -1,4 +1,4 @@
-#Namespaced-identifier 1.19.2
+# Namespaced-identifier 1.19.2
 
 stone 石頭
 granite 花崗岩
